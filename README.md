@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudipta 
 - 👀 I’m interested in Coding, Music and Movies also i love to Workout ;)
-- 🌱 I’m currently learning Python, Web_Development and will be shortly learning C++
+- 🌱 i do machine learning apllications and simulations , embedded systems and AI
 - 💞️ I’m looking to collaborate on future
 - 📫 How to reach me ?
 - my email : sudiptaparasar42@gmail.com
