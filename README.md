@@ -1,9 +1,30 @@
-- 👋 Hi, I’m Sudipta 
-- 👀 I’m interested in Coding, Music and Movies also i love to Workout ;)
-- 🌱 i do machine learning apllications and simulations , embedded systems and AI
-- 💞️ I’m looking to collaborate on future
-- 📫 How to reach me ?
-- my email : sudiptaparasar42@gmail.com
+👋 Hi, I’m Sudipta Parasar
+
+🔍 Data Scientist and Embedded Systems Engineer
+
+🌟 Skills:
+- Languages: Python, C++, C, kotlin, Dart.
+- Technologies: Machine Learning, Artificial Intelligence, Embedded Systems, Internet of Things (IoT)
+
+🚀 Passionate About:
+- Developing innovative AI solutions
+- Integrating IoT with embedded systems
+- Creating scalable machine learning models
+
+🌱 Current Focus:
+- Exploring advanced AI techniques
+- Building smart IoT devices
+
+💡 Notable Projects:
+- NULL
+
+📫 Connect with Me:
+- Email: sudiptaparasar42@gmail.com
+- LinkedIn: www.linkedin.com/in/sudipta-parasar
+- YouTube: 
+
+
+
 
 <!---
 sudipta2003/sudipta2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
