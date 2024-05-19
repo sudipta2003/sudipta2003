@@ -1,6 +1,6 @@
 👋 Hi, I’m Sudipta Parasar
 
-🔍 Data Scientist and Embedded Systems Engineer
+🔍 Machine learning and Embedded Systems design Engineer
 
 🌟 Skills:
 - Languages: Python, C++, C, kotlin, Dart.
